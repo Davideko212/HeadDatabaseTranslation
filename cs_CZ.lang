@@ -24,6 +24,7 @@ messages.headItemColor: &9
 messages.categoryColor: &c&l
 messages.categoryLoreColor: &e
 
+messages.suggest: &bTu můžete navrhnout hlavy:
 messages.noPermission: &cNa to nemáte povolení!
 messages.notEnoughMoney: &cNa to nemáte dost peněz!
 messages.notEnoughSpace: &cNa to nemáte dost místa v inventáře!
@@ -41,6 +42,8 @@ messages.chatSearch: &bZadejte něco na vyhledávádní
 messages.databaseStillLoading: &cDatabase se ještě načítá, zkuste to za chvíly znova!
 messages.customCommandItemName: &cZpět k hlavním menu
 
+# CATEGORY NAMES
+
 category.alphabet: Abeceda
 category.animals: Zvířata
 category.blocks: Blocky
@@ -57,3 +60,18 @@ category.custom3: Vlastní hlavy na Serveru 3
 category.custom4: Vlastní hlavy na Serveru 4
 category.custom5: Vlastní hlavy na Serveru 5
 category.online_players: Online Hráče
+category.disabled: Vypnuté
+
+# EVENT NAMES
+
+event.halloween: &eHalloween
+event.christmas: &bVánoce
+event.newYear: &6Šťastný nový rok!
+event.valentines: &cValentýn
+event.4thOfJuly: &cVeselý čtvrtý červenec
+event.easter: &fVelikonoce
+event.winter: &fZima
+event.summer: &6Léto
+event.MayThe4th: &3Ať bude síla s vámi
+event.piDay: &3Den Pi
+event.pokemon: &6Den Pokémonu
